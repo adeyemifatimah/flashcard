@@ -1,0 +1,35 @@
+
+.balo{
+    margin-top: 30px;
+    font-style: italic;
+    box-sizing: content-box;
+}
+.down{
+    background-color: lightslategrey;
+}
+
+.javascript{
+    display: none;
+} 
+.operate{
+    display: none;
+}
+.show-var{
+    display: none;
+}
+.var-convent{
+    display: none;
+}
+.no-funct{
+    display: none;
+}
+.show-method{
+    display: none;
+}
+.showargument{
+    display: none;
+
+}
+.showpara{
+    display: none;
+}
